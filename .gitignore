@@ -1,3 +1,8 @@
+# Kaggle project directories
+data/
+data_ori/
+report*/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
