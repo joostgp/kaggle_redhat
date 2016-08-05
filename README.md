@@ -1,3 +1,3 @@
-# kaggle_redhat
+# kaggle redhat
 
 Kaggle competition
